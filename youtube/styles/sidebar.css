@@ -1,0 +1,5 @@
+.left-section{
+    display:grid;
+    grid-template-columns:30 ; 
+    width: 12px;
+}
